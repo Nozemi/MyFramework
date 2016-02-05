@@ -1,0 +1,7 @@
+{
+	"SiteTitle": "NozFramework",
+	"SiteDesc": "NozFramework Description",
+	"BootstrapMessages": true,
+	"Debug": true,
+	"PHPErrors": false
+}

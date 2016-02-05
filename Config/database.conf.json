@@ -1,0 +1,8 @@
+{
+	"Database": {
+		"DBHost": "127.0.0.1",
+		"DBName": "testdatabase",
+		"DBUser": "root",
+		"DBPass": ""
+	}
+}
